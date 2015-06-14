@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 # Reverser - Reverse IP Tool v1.5
-# By : Alexcerus HR
+# By : Lucifer HR
 
 print <<EOD; 
 
