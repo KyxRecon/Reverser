@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 # Reverser - Reverse IP Tool v1.5
-# By : Lucifer HR
+# By@kyxrec0n
 
 print <<EOD; 
 
@@ -32,7 +32,7 @@ print <<EOD;
        ::     ':::::::::"'    ::       
        ':       """""""'      ::       
         ::                   ;:         ~ Reverser - Reverse IP Tool v1.5
-        ':;                 ;:"                 ~ By : Alexcerus HR
+        ':;                 ;:"                 ~ By@kyxrec0n
           ';              ,;'           
             "'           '" 
 
